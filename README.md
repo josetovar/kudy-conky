@@ -7,7 +7,7 @@ Nice and clean conky theme, made using lua, cairo and python
 
 # Screenshot
 
-![Kudy Conky](/Icons/kudy-conky-screenshot.jpg?raw=true "Kudy Conky")
+![Kudy Conky](/Icons/kudy-conky-screenshot.png?raw=true "Kudy Conky")
 
 
 # Requirements:
