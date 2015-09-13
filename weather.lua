@@ -377,8 +377,8 @@ function conky_main(  )
 
 		-- print summary
         options.valign = 1
-        _, y = lineText(m_summary[1] .. ',' , start_x + box_width*(0.05), y , box_height*(0.06), 'Roboto Light', extents, font_ext, options)
-        if string.len(m_summary[2]) >= 1 then
+        _, y = lineText(m_summary[1], start_x + box_width*(0.05), y , box_height*(0.06), 'Roboto Light', extents, font_ext, options)
+        if not m_summary[2] == nil then
 	        options.valign = 1
 	        _, y = lineText(m_summary[2] , start_x + box_width*(0.04), y , box_height*(0.06), 'Roboto Light', extents, font_ext, options)
 		end
