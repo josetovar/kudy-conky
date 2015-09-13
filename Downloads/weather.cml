@@ -2,7 +2,7 @@
 1_minTempAt:04:00
 2_maxTempAt:13:00
 feel:11
-update_at:2015-09-13 07:54:15
+update_at:2015-09-13 08:04:27
 7_maxTemp:16.98
 3_maxTemp:17.06
 8_icon:rain
@@ -34,7 +34,7 @@ forecast_summery:Light rain throughout the week, with temperatures bottoming out
 5_maxTempAt:14:00
 3_summary:Drizzle in the morning.
 3_minTemp:9.02
-wind:6.34
+wind:6.37
 4_icon:rain
 7_icon:rain
 speed_unit:km/h
@@ -48,8 +48,8 @@ icon:partly-cloudy-day
 temp_unit:C
 2_minTemp:9.38
 5_maxTemp:15.9
-humidity:0.78
-1_maxTemp:16.99
+humidity:0.77
+1_maxTemp:16.98
 4_minTempAt:04:00
 status:FILLED
 2_minTempAt:02:00

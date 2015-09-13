@@ -37,20 +37,6 @@ This package is needed for parsing yaml files
 The python wrapper for the forecast.io api
     sudo pip install python-forecastio
 
-## BeautiFul Soup
-For scrapping data out of html pages
-### For Ubuntu
-    sudo apt-get install python-bs4
-### Using pip
-    sudo pip install beautifulsoup4
-
-## lxml
-For parsing html
-### For Ubuntu
-    sudo apt-get install python-lxml
-### Using pip
-    sudo pip install lxml
-
 
 # Configuration:
 The main configuration is in config.yml (not complete yet)
